@@ -1,0 +1,4 @@
+00:00:00 This is the start time for the current song - it gets the end time from the next timecode
+0:42:20 timecode can be in - either HH:MM:SS or H:M:S or any combination of the two
+0:58:36 for the last song - it will clip from the start time to the end of the video
+1:15:24 keep this in mind for - loops that may repeat after an hour
