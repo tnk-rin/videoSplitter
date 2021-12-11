@@ -1,10 +1,10 @@
 ![alt-text](https://raw.githubusercontent.com/tnk-rin/walls/main/VideoSplitter.png "Logo")
 
 # videoSplitter
-This is a small tool to clip music compilations from youtube into individual songs.
+A small tool to clip music compilations from youtube into individual songs.
 
 ## How it works
-The splitter can be run with the command
+Can be run with the command
 `python videoSplitter.py`
 ##
 
