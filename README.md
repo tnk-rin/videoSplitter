@@ -26,7 +26,7 @@ Other Arguments:
 
 `-f (--force)`                 Converts all songs, even if it is already present in output folder
 
-# The timecode file
+## The timecode file
 
 An [example timecode file](https://github.com/tnk-rin/videoSplitter/blob/master/example_timecode.txt) has been added to the repository but it follows the simple format:
 
@@ -38,6 +38,6 @@ HH:MM:SS Artist Name - Track Name
 
 __The time listed is the start time of each song.__
 
-# Dependencies
+## Dependencies
 Needs moviepy and mutagen
 `pip install moviepy mutagen`
