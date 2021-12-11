@@ -1,3 +1,5 @@
+![alt-text](https://raw.githubusercontent.com/tnk-rin/walls/main/VideoSplitter.png "Logo")
+
 # videoSplitter
 This is a small tool to clip music compilations from youtube into individual songs.
 
