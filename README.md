@@ -14,15 +14,17 @@ Required Arguments:
 
 `-t (--timecodepath) filename` Path to the timecode file
 
-Optional Arguments:
+Metadata Arguments (Optional):
 
-`-y (--year) year`             The year to apply to the metadata
+`-y (--year) year`
 
-`-g (--genre) genre`           The genre to apply to the metadata
+`-g (--genre) genre`
 
-`-a (--album) album`           The album name to apply to the metadata
+`-a (--album) album`
 
-`-f (--force)`                 If the song already exists in the output folder, overwrite it
+Other Arguments:
+
+`-f (--force)`                 Converts all songs, even if it is already present in output folder
 
 # The timecode file
 
@@ -35,3 +37,7 @@ HH:MM:SS Artist Name - Track Name
 ```
 
 __The time listed is the start time of each song.__
+
+# Dependencies
+Needs moviepy and mutagen
+`pip install moviepy mutagen`
